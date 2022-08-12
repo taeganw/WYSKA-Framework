@@ -56,7 +56,7 @@ Websites You Should Know About (WYSKA) Framework is built off of the OSINT Frame
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Websites You Should Know About (WYSKA) Framework is built off of the [OSINT Framework](https://github.com/lockfale/osint-framework). The goal of this framework is to have a central location to share free resources to help tech savy and business minded individuals. This project was created to help people find resources for their passions and interest. More updates to come!
+Websites You Should Know About (WYSKA) Framework is built off of the [OSINT Framework](https://github.com/lockfale/osint-framework). This project was created to help people find resources for their passions and interest. More updates to come!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,8 +94,8 @@ Check out the live version of this site at [WYSKAFramework.com](https://wyskafra
 - [x] Add Additional Templates w/ Examples
 - [x] Recreate Website using Node.Js and Express
 - [x] Added SSL Cert with OpenSSL
-- [ ] Create tab Feature
-- [ ] Create Front end search feature
+- [ ] Create tab feature
+- [ ] Create front end search feature
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
