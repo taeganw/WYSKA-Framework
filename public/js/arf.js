@@ -56,6 +56,7 @@ function update(source) {
   // Enter any new nodes at the parent's previous position.
   var nodeEnter = node.enter().append("svg:g")
       .attr("class", "node")
+    
       .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
       .on("click", function(d) { toggle(d); update(d); });
 
@@ -64,20 +65,30 @@ function update(source) {
       .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
   nodeEnter.append('a')
+      
       .attr("target", "_blank")
       .attr('xlink:href', function(d) { return d.url; })
       .append("svg:text")
       .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
       .attr("dy", ".35em")
       .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
-      .text(function(d) { return d.name; })
-      .style("fill: rgb(0, 0, 0)", function(d) { return d.free ? 'black' : '#999'; })
-      .style("fill-opacity", 1e-6);
-
-  nodeEnter.append("svg:title")
     .text(function(d) {
-      return d.description;
-    });
+            return d.name;
+        })
+      .style("fill: rgb(0, 0, 0);", function(d) { return d.free ? 'black' : '#999'; })
+     .append("tspan")
+      .attr('xlink:href', function(d) { return d.url; })
+      .attr("font-weight", 300)
+      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
+      .attr("y", function(d) { return d.children || d._children ? -10 : 10; })
+      .attr("dy", ".35em")
+      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
+      .text(function(d) {
+            if (d.description !== undefined){
+                return d.description;
+            }
+        })
+      .style("fill: rgb(0, 0, 0);", function(d) { return d.free ? 'black' : '#999'; });
 
   // Transition nodes to their new position.
   var nodeUpdate = node.transition()
