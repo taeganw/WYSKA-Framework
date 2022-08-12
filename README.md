@@ -21,8 +21,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- 
-<h3 align="center">WYSKA Framework</h3>
+ <a href="https://github.com/taeganw/WYSKA-Framework">
+   <img src="public/favicon.ico" alt="Logo" width="80" height="80">
+ </a><h3 align="center">WYSKA Framework</h3>
 
   <p align="center">
 Websites You Should Know About (WYSKA) Framework is built off of the OSINT Framework. The goal of this framework is to have a central location to share free resources to help tech savy and business minded individuals.     <br />
