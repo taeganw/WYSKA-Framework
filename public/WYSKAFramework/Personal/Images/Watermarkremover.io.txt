@@ -1,0 +1,6 @@
+{
+"name": "Watermarkremover.io",
+"type": "url",
+"url": "https://Watermarkremover.io",
+"description": "Removes watermarks from images"
+}

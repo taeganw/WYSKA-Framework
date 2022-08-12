@@ -1,0 +1,6 @@
+{
+"name": "roadtrippers.com",
+"type": "url",
+"url": "https://roadtrippers.com",
+"description": "Find hotels, landmarks, and pitstops on a roadtrip"
+}

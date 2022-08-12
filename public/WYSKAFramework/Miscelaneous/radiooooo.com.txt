@@ -1,0 +1,6 @@
+{
+"name": "Radiooooo.com",
+"type": "url",
+"url": "https://Radiooooo.com",
+"description": "radio stations in any country in any decade"
+}

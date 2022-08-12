@@ -1,0 +1,6 @@
+{
+"name": "smmry.com",
+"type": "url",
+"url": "https://smmry.com",
+"description": "Create summary of long article"
+}

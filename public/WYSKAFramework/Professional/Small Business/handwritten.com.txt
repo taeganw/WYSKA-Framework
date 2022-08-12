@@ -1,0 +1,6 @@
+{
+"name": "handwritten.com",
+"type": "url",
+"url": "https://handwritten.com",
+"description": "Write customers handwritten notes"
+}

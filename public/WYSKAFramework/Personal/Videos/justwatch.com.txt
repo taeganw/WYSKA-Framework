@@ -1,0 +1,6 @@
+{
+"name": "Justwatch.com",
+"type": "url",
+"url": "https://Justwatch.com",
+"description": "find the platform and cost for movies"
+}

@@ -1,0 +1,6 @@
+{
+"name": "adroll.com",
+"type": "url",
+"url": "https://adroll.com",
+"description": "Ads on non-Facebook nor Google sites"
+}

@@ -1,0 +1,6 @@
+{
+"name": "hashtagstack.com",
+"type": "url",
+"url": "https://hashtagstack.com",
+"description": "Metrics for hashtag engagement"
+}

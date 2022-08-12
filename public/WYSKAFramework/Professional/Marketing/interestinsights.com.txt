@@ -1,0 +1,6 @@
+{
+"name": "interestinsights.com",
+"type": "url",
+"url": "https://interestinsights.com",
+"description": "Find out the ideal customers interests"
+}

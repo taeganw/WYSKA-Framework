@@ -1,0 +1,6 @@
+{
+"name": "Temp-mail.org",
+"type": "url",
+"url": "https://Temp-mail.org",
+"description": "temporary email address to sign up without spam"
+}

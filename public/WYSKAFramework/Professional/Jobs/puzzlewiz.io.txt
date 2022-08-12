@@ -1,0 +1,6 @@
+{
+"name": "puzzlewiz.io",
+"type": "url",
+"url": "https://puzzlewiz.io",
+"description": "Make crosswords, puzzles, and more"
+}

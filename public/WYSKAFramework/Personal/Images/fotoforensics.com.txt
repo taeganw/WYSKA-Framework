@@ -1,0 +1,6 @@
+{
+"name": "fotoforensics.com",
+"type": "url",
+"url": "https://fotoforensics.com",
+"description": "see if an image was photoshopped"
+}

@@ -1,0 +1,6 @@
+{
+"name": "amazon.com/outlet",
+"type": "url",
+"url": "https://amazon.com/outlet",
+"description": "overstock amazon items with great deals"
+}

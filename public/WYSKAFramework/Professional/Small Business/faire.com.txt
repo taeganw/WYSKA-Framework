@@ -1,0 +1,6 @@
+{
+"name": "faire.com",
+"type": "url",
+"url": "https://faire.com",
+"description": "buy or sell wholesale products"
+}

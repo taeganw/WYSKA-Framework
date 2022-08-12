@@ -1,0 +1,6 @@
+{
+"name": "Yummly.com ",
+"type": "url",
+"url": "https://Yummly.com ",
+"description": "personalized recipes for yourself"
+}

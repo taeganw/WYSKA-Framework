@@ -1,0 +1,6 @@
+{
+"name": "Smodin.io",
+"type": "url",
+"url": "https://Smodin.io",
+"description": "rewrite papers and check for plagiarism"
+}

@@ -1,0 +1,6 @@
+{
+"name": "junglescout.com",
+"type": "url",
+"url": "https://junglescout.com",
+"description": "E-commerce Profit Calculator, Sales Estimator and Listing Grader"
+}

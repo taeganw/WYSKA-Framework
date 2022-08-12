@@ -1,0 +1,6 @@
+{
+"name": "getshogun.com",
+"type": "url",
+"url": "https://getshogun.com",
+"description": "Fully customize shopify with drag n'drop"
+}

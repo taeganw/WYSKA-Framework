@@ -1,0 +1,6 @@
+{
+"name": "Rsoe-edis.org/eventMap",
+"type": "url",
+"url": "https://Rsoe-edis.org/eventMap",
+"description": "Emergencies all over the world"
+}

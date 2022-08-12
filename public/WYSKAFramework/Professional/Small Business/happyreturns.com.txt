@@ -1,0 +1,6 @@
+{
+"name": "happyreturns.com",
+"type": "url",
+"url": "https://happyreturns.com",
+"description": "free app solution for return items"
+}

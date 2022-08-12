@@ -1,0 +1,6 @@
+{
+"name": "Monkeytype.com",
+"type": "url",
+"url": "https://Monkeytype.com",
+"description": "Words Per Minute Test"
+}

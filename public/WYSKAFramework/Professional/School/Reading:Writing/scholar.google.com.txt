@@ -1,0 +1,6 @@
+{
+"name": "scholar.google.com",
+"type": "url",
+"url": "https://scholar.google.com",
+"description": "Research papers"
+}

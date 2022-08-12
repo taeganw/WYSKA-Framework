@@ -1,0 +1,6 @@
+{
+"name": "upcs.com",
+"type": "url",
+"url": "https://upcs.com",
+"description": "Buy amazon UPC codes"
+}

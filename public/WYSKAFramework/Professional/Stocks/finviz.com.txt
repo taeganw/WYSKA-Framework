@@ -1,0 +1,6 @@
+{
+"name": "finviz.com",
+"type": "url",
+"url": "https://finviz.com",
+"description": "Find new stocks"
+}

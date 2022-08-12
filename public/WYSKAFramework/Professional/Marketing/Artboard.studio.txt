@@ -1,0 +1,6 @@
+{
+"name": "Artboard.studio",
+"type": "url",
+"url": "https://Artboard.studio",
+"description": "Create branding mockups"
+}

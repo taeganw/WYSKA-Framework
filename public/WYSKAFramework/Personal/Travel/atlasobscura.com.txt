@@ -1,0 +1,6 @@
+{
+"name": "atlasobscura.com",
+"type": "url",
+"url": "https://atlasobscura.com",
+"description": "Find lesser known tourist information"
+}

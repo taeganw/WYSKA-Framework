@@ -1,0 +1,6 @@
+{
+"name": "stocktwits.com",
+"type": "url",
+"url": "https://stocktwits.com",
+"description": "Social media for stock traders"
+}

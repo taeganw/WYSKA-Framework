@@ -1,0 +1,6 @@
+{
+"name": "printful.com",
+"type": "url",
+"url": "https://printful.com",
+"description": "Create product drop shipping product templates"
+}

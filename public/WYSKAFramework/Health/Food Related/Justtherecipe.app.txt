@@ -1,0 +1,6 @@
+{
+"name": "justtherecipe.app",
+"type": "url",
+"url": "https://justtherecipe.app",
+"description": "copy URL and paste into to remove all text around the recipe"
+}

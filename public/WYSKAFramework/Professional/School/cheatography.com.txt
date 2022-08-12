@@ -1,0 +1,6 @@
+{
+"name": "Cheatography.com",
+"type": "url",
+"url": "https://Cheatography.com",
+"description": "cheat sheets for any project"
+}

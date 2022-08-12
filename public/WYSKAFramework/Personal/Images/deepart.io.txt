@@ -1,0 +1,6 @@
+{
+"name": "deepart.io",
+"type": "url",
+"url": "https://deepart.io",
+"description": "turn any photo into artwork"
+}

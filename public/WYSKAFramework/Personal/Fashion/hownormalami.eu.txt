@@ -1,0 +1,6 @@
+{
+"name": "hownormalami.eu",
+"type": "url",
+"url": "https://hownormalami.eu",
+"description": "will rate how beautiful you are"
+}

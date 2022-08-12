@@ -1,0 +1,6 @@
+{
+"name": "dronestock.com",
+"type": "url",
+"url": "https://dronestock.com",
+"description": "Free drone stock video"
+}

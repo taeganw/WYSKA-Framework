@@ -1,0 +1,6 @@
+{
+"name": "range.me",
+"type": "url",
+"url": "https://range.me",
+"description": "Real buyers find products to sell in stores"
+}

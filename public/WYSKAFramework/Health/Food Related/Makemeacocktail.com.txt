@@ -1,0 +1,6 @@
+{
+"name": "Makemeacocktail.com",
+"type": "url",
+"url": "https://Makemeacocktail.com",
+"description": "all the drinks you can make with current ingredients"
+}

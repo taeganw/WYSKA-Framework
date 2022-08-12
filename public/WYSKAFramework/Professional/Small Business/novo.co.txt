@@ -1,0 +1,6 @@
+{
+"name": "novo.co",
+"type": "url",
+"url": "https://novo.co",
+"description": "Free business checking account"
+}

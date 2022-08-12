@@ -1,0 +1,6 @@
+{
+"name": "amazon.com/Warehouse-Deals",
+"type": "url",
+"url": "https://amazon.com/Warehouse-Deals",
+"description": "Discounts on new or returned items"
+}

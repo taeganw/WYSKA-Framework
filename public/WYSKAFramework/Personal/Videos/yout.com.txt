@@ -1,0 +1,6 @@
+{
+"name": "yout.com",
+"type": "url",
+"url": "https://yout.com",
+"description": "download youtube videos, just remove the use from the youtube url"
+}

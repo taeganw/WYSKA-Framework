@@ -1,0 +1,6 @@
+{
+"name": "Wifispc.com",
+"type": "url",
+"url": "https://Wifispc.com",
+"description": "Find Wifi Passwords near you"
+}

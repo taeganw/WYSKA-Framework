@@ -1,0 +1,6 @@
+{
+"name": "amazon.com/stylesnap",
+"type": "url",
+"url": "https://amazon.com/stylesnap",
+"description": "grab clothes from pictures and add to cart"
+}

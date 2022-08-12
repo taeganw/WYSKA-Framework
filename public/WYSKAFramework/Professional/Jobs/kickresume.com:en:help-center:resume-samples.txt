@@ -1,0 +1,6 @@
+{
+"name": "kickresume.com/en/help-center/resume-samples",
+"type": "url",
+"url": "https://kickresume.com/en/help-center/resume-samples",
+"description": "Resume samples"
+}

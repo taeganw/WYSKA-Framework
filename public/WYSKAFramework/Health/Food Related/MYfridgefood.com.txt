@@ -1,0 +1,6 @@
+{
+"name": "Myfridgefood.com ",
+"type": "url",
+"url": "https://Myfridgefood.com",
+"description": "find recipes with the food you have in the fridge."
+}

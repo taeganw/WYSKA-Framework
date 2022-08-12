@@ -1,0 +1,6 @@
+{
+"name": "wholesalecentral.com",
+"type": "url",
+"url": "https://wholesalecentral.com",
+"description": "Find USA wholesale suppliers"
+}

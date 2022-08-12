@@ -1,0 +1,6 @@
+{
+"name": "taxjar.com",
+"type": "url",
+"url": "https://taxjar.com",
+"description": "Sales tax for all states"
+}

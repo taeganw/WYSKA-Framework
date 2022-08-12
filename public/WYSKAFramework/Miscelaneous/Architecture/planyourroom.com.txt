@@ -1,0 +1,6 @@
+{
+"name": "planyourroom.com",
+"type": "url",
+"url": "https://planyourroom.com",
+"description": "plan out a room design"
+}

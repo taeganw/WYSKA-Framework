@@ -1,0 +1,6 @@
+{
+"name": "openinsider.com",
+"type": "url",
+"url": "https://openinsider.com",
+"description": "Stocks that CEOs buy"
+}

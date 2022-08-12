@@ -1,0 +1,6 @@
+{
+"name": "conjured.co",
+"type": "url",
+"url": "https://conjured.co",
+"description": "Build a refer a friend program"
+}

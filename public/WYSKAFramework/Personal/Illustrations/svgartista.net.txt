@@ -1,0 +1,6 @@
+{
+"name": "svgartista.net",
+"type": "url",
+"url": "https://svgartista.net",
+"description": "Animate SVGs in minutes"
+}

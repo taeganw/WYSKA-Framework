@@ -1,0 +1,6 @@
+{
+"name": "Ptable.com",
+"type": "url",
+"url": "https://Ptable.com ",
+"description": "visualization of the periodic table"
+}

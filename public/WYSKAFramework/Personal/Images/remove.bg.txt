@@ -1,0 +1,6 @@
+{
+"name": "remove.bg",
+"type": "url",
+"url": "https://remove.bg",
+"description": "remove background from images"
+}

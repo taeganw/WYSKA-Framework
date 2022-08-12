@@ -1,0 +1,6 @@
+{
+"name": "MarineTraffic.com",
+"type": "url",
+"url": "https://MarineTraffic.com",
+"description": "Track every boat or ship in the water"
+}

@@ -1,0 +1,6 @@
+{
+"name": "Musclewiki.com",
+"type": "url",
+"url": "https://Musclewiki.com",
+"description": "Workouts after selecting muscle group"
+}

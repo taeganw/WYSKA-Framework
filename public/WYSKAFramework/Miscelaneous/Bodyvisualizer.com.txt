@@ -1,0 +1,6 @@
+{
+"name": "Bodyvisualizer.com",
+"type": "url",
+"url": "https://Bodyvisualizer.com",
+"description": "find body type"
+}

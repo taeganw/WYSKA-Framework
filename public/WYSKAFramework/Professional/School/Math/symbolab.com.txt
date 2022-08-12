@@ -1,0 +1,6 @@
+{
+"name": "symbolab.com",
+"type": "url",
+"url": "https://symbolab.com",
+"description": "Solve Math Problems"
+}

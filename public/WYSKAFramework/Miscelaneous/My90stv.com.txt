@@ -1,0 +1,6 @@
+{
+"name": "My90stv.com",
+"type": "url",
+"url": "https://My90stv.com",
+"description": "90 tv shows"
+}

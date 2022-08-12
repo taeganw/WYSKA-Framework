@@ -1,0 +1,6 @@
+{
+"name": "exercism.org",
+"type": "url",
+"url": "https://exercism.org",
+"description": "Learn any programming language for free"
+}

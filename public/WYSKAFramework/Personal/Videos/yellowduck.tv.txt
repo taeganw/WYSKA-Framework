@@ -1,0 +1,6 @@
+{
+"name": "yellowduck.tv",
+"type": "url",
+"url": "https://yellowduck.tv",
+"description": "Live stream your desktop"
+}

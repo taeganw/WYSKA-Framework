@@ -1,0 +1,6 @@
+{
+"name": "jotforms.com",
+"type": "url",
+"url": "https://jotforms.com",
+"description": "Create editable forms"
+}

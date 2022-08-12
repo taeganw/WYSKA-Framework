@@ -1,0 +1,6 @@
+{
+"name": "creatormarketplace.tiktok.com",
+"type": "url",
+"url": "https://creatormarketplace.tiktok.com",
+"description": "Find creators to showcase products"
+}

@@ -1,0 +1,6 @@
+{
+"name": "onfire.craftwork.design",
+"type": "url",
+"url": "https://onfire.craftwork.design",
+"description": "Creative Commons illustration libraries"
+}

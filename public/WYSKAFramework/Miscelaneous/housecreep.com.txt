@@ -1,0 +1,6 @@
+{
+"name": "Housecreep.com",
+"type": "url",
+"url": "https://Housecreep.com",
+"description": "creepy stuff that happened in your neighborhood"
+}

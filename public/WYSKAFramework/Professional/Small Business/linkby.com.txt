@@ -1,0 +1,6 @@
+{
+"name": "linkby.com",
+"type": "url",
+"url": "https://linkby.com",
+"description": "Cost per click marketing for publishers"
+}

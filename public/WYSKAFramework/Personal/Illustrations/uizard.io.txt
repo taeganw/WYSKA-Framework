@@ -1,0 +1,6 @@
+{
+"name": "uizard.io",
+"type": "url",
+"url": "https://uizard.io",
+"description": "Convert illustrations to website mockups"
+}

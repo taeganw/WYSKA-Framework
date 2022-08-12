@@ -1,0 +1,6 @@
+{
+"name": "wolframalpha.com",
+"type": "url",
+"url": "https://wolframalpha.com",
+"description": "Solves most problems"
+}

@@ -1,0 +1,6 @@
+{
+"name": "hexomatic.com",
+"type": "url",
+"url": "https://hexomatic.com",
+"description": "pre-built marketing automation bots"
+}

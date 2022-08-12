@@ -1,0 +1,6 @@
+{
+"name": "printify.com",
+"type": "url",
+"url": "https://printify.com",
+"description": "Create product drop shipping product templates"
+}

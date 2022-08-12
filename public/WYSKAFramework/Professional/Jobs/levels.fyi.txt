@@ -1,0 +1,6 @@
+{
+"name": "levels.fyi",
+"type": "url",
+"url": "https://levels.fyi",
+"description": "See salary levels of positions in large tech companies"
+}

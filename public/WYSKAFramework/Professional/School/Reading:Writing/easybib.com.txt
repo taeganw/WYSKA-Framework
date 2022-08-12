@@ -1,0 +1,6 @@
+{
+"name": "easybib.com",
+"type": "url",
+"url": "https://easybib.com",
+"description": "create citations easy"
+}

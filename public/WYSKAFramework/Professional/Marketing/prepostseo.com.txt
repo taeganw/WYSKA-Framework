@@ -1,0 +1,6 @@
+{
+"name": "prepostseo.com",
+"type": "url",
+"url": "https://prepostseo.com",
+"description": "Collection of online tools"
+}

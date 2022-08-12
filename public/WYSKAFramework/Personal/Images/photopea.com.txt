@@ -1,0 +1,6 @@
+{
+"name": "photopea.com",
+"type": "url",
+"url": "https://photopea.com",
+"description": "Photoshop in the browser"
+}

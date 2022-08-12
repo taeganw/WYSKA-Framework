@@ -1,0 +1,6 @@
+{
+"name": "control.rocks",
+"type": "url",
+"url": "https://control.rocks",
+"description": "illustrations of humans in activities"
+}

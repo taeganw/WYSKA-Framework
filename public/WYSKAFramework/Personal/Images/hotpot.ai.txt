@@ -1,0 +1,6 @@
+{
+"name": "hotpot.ai",
+"type": "url",
+"url": "https://hotpot.ai",
+"description": "add color or restore images with scratches"
+}

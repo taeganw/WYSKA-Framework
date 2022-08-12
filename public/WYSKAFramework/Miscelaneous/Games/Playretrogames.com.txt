@@ -1,0 +1,6 @@
+{
+"name": "Playretrogames.com",
+"type": "url",
+"url": "https://Playretrogames.com",
+"description": "Play old games"
+}

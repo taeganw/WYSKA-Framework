@@ -1,0 +1,6 @@
+{
+"name": "hirect.us",
+"type": "url",
+"url": "https://hirect.us",
+"description": "Hire the first employee"
+}

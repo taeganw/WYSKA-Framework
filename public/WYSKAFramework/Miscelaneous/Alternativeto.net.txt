@@ -1,0 +1,6 @@
+{
+"name": "Alternativeto.net",
+"type": "url",
+"url": "https://Alternativeto.net",
+"description": "find free alternatives to paid software"
+}

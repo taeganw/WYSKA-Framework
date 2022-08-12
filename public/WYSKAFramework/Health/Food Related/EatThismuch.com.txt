@@ -1,0 +1,6 @@
+{
+"name": "eatthismuch.com",
+"type": "url",
+"url": "https://eatthismuch.com",
+"description": "Create meal plans with calorie restrictions"
+}

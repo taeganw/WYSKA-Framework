@@ -1,0 +1,6 @@
+{
+"name": "shipstation.com",
+"type": "url",
+"url": "https://shipstation.com",
+"description": "print shipping labels fast"
+}

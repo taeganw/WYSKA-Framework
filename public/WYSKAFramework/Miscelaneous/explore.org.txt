@@ -1,0 +1,6 @@
+{
+"name": "Explore.org",
+"type": "url",
+"url": "https://Explore.org",
+"description": "watch livestream of animals"
+}

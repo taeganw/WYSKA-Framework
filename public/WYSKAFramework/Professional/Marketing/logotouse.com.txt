@@ -1,0 +1,6 @@
+{
+"name": "logotouse.com",
+"type": "url",
+"url": "https://logotouse.com",
+"description": "Collection of free logos"
+}

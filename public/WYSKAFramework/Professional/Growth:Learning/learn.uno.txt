@@ -1,0 +1,6 @@
+{
+"name": "learn.uno",
+"type": "url",
+"url": "https://learn.uno",
+"description": "Learning anything in 30 days"
+}

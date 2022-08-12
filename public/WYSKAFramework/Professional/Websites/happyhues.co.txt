@@ -1,0 +1,7 @@
+
+{
+"name": "happyhues.co",
+"type": "url",
+"url": "https://happyhues.co",
+"description": "color matching website"
+}

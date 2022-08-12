@@ -1,0 +1,6 @@
+{
+"name": "luckyorange.om",
+"type": "url",
+"url": "https://luckyorange.om",
+"description": "heat maps for images on websites"
+}

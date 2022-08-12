@@ -1,0 +1,6 @@
+{
+"name": "futureme.org",
+"type": "url",
+"url": "https://futureme.org",
+"description": "Write emails to your future self"
+}

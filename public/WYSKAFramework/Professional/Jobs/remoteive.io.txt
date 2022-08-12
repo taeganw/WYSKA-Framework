@@ -1,0 +1,6 @@
+{
+"name": "remoteive.io",
+"type": "url",
+"url": "https://remoteive.io",
+"description": "Remote job opportunities"
+}

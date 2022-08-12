@@ -1,0 +1,6 @@
+{
+"name": "theinpaint.com",
+"type": "url",
+"url": "https://theinpaint.com",
+"description": "remove background item from image"
+}

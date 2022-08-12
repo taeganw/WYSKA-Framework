@@ -1,0 +1,6 @@
+{
+"name": "Ratemyprofessors.com",
+"type": "url",
+"url": "https://Ratemyprofessors.com",
+"description": "student reviews of professors"
+}

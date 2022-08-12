@@ -1,0 +1,6 @@
+{
+"name": "zapier.com",
+"type": "url",
+"url": "https://zapier.com",
+"description": "Marketing automation tools"
+}

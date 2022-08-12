@@ -1,0 +1,6 @@
+{
+"name": "filmzie.com",
+"type": "url",
+"url": "https://filmzie.com",
+"description": "free tv and movies online legal"
+}

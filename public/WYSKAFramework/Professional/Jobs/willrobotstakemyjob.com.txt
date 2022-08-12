@@ -1,0 +1,6 @@
+{
+"name": "willrobotstakemyjob.com",
+"type": "url",
+"url": "https://willrobotstakemyjob.com",
+"description": "Show the odds of a robot taking over your job"
+}

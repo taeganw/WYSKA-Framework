@@ -1,0 +1,6 @@
+{
+"name": "wordmark.it",
+"type": "url",
+"url": "https://wordmark.it",
+"description": "Compare fonts"
+}

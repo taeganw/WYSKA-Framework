@@ -1,0 +1,6 @@
+{
+"name": "goaffpro.com",
+"type": "url",
+"url": "https://goaffpro.com",
+"description": "track influencer/affiliate commission"
+}

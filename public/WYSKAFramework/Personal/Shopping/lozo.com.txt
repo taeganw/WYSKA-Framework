@@ -1,0 +1,6 @@
+{
+"name": "lozo.com",
+"type": "url",
+"url": "https://lozo.com",
+"description": "coupons for grocery list"
+}

@@ -1,0 +1,6 @@
+{
+"name": "sell.amazon.com",
+"type": "url",
+"url": "https://sell.amazon.com",
+"description": "Become an amazon seller"
+}

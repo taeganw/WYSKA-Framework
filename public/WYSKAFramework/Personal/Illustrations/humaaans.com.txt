@@ -1,0 +1,6 @@
+{
+"name": "humaaans.com",
+"type": "url",
+"url": "https://humaaans.com",
+"description": "illustrations of human characters"
+}

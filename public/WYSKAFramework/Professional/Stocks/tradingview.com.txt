@@ -1,0 +1,6 @@
+{
+"name": "tradingview.com",
+"type": "url",
+"url": "https://tradingview.com",
+"description": "Free stock charts"
+}

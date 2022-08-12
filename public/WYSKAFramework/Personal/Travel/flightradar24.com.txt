@@ -1,0 +1,6 @@
+{
+"name": "flightradar24.com",
+"type": "url",
+"url": "https://flightradar24.com",
+"description": "track any aircraft in the world and flight path"
+}

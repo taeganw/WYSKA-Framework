@@ -1,0 +1,6 @@
+{
+"name": "onetoonline.org",
+"type": "url",
+"url": "https://onetoonline.org",
+"description": "See salaries based on location"
+}

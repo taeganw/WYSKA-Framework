@@ -1,0 +1,6 @@
+{
+"name": "Googledrivelinks.com",
+"type": "url",
+"url": "https://googledrivelinks.com",
+"description": "list to google drive links with free stuff"
+}

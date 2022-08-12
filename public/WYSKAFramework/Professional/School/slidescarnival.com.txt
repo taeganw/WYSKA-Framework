@@ -1,0 +1,6 @@
+{
+"name": "Slidescarnival.com",
+"type": "url",
+"url": "https://Slidescarnival.com",
+"description": "free PowerPoint templates"
+}

@@ -1,0 +1,6 @@
+{
+"name": "favicon.io",
+"type": "url",
+"url": "https://favicon.io",
+"description": "Add icons for a website"
+}

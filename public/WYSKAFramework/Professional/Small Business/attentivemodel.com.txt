@@ -1,0 +1,6 @@
+{
+"name": "attentivemodel.com",
+"type": "url",
+"url": "https://attentivemodel.com",
+"description": "compliant SMS marketing"
+}

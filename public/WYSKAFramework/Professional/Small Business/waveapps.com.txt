@@ -1,0 +1,6 @@
+{
+"name": "waveapps.com",
+"type": "url",
+"url": "https://waveapps.com",
+"description": "Free accounting software"
+}

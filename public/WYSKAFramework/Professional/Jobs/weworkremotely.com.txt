@@ -1,0 +1,6 @@
+{
+"name": "weworkremotely.com",
+"type": "url",
+"url": "https://weworkremotely.com",
+"description": "Remote job opportunities"
+}

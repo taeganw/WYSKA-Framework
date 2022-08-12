@@ -1,0 +1,6 @@
+{
+"name": "codingame.org",
+"type": "url",
+"url": "https://codingame.com",
+"description": "learn coding games"
+}

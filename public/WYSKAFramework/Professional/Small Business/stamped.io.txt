@@ -1,0 +1,6 @@
+{
+"name": "stamped.io",
+"type": "url",
+"url": "https://stamped.io",
+"description": "Send automated emails, reviews, loyalty program"
+}

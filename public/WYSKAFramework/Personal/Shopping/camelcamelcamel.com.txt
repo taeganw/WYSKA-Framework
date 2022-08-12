@@ -1,0 +1,6 @@
+{
+"name": "camelcamelcamel.com",
+"type": "url",
+"url": "https://camelcamelcamel.com",
+"description": "show price history of amazon items"
+}

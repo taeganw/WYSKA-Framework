@@ -1,0 +1,6 @@
+{
+"name": "cleanmock.com",
+"type": "url",
+"url": "https://cleanmock.com",
+"description": "Turn screenshots into stylish images"
+}

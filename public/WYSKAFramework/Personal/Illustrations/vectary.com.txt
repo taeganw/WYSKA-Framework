@@ -1,0 +1,6 @@
+{
+"name": "vectary.com",
+"type": "url",
+"url": "https://vectary.com",
+"description": "Create 3D illustrations"
+}

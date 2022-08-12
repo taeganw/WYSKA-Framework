@@ -1,0 +1,6 @@
+{
+"name": "github.com/donnemartin/system-design-primer",
+"type": "url",
+"url": "https://github.com/donnemartin/system-design-primer",
+"description": "learn how to scale any large networking project"
+}

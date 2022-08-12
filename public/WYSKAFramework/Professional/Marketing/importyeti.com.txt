@@ -1,0 +1,6 @@
+{
+"name": "importyeti.com",
+"type": "url",
+"url": "https://importyeti.com",
+"description": "Find a company's supplier for bulk goods"
+}

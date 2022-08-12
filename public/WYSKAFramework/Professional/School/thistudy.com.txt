@@ -1,0 +1,6 @@
+{
+"name": "Thistudy.com",
+"type": "url",
+"url": "https://Thistudy.com",
+"description": "search for answers to questions"
+}

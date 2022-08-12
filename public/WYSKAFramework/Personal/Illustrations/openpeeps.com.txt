@@ -1,0 +1,6 @@
+{
+"name": "openpeeps.com",
+"type": "url",
+"url": "https://openpeeps.com",
+"description": "Creative Commons Illustration libraries"
+}

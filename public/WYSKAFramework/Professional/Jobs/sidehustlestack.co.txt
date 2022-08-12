@@ -1,0 +1,6 @@
+{
+"name": "sidehustlestack.co",
+"type": "url",
+"url": "https://sidehustlestack.co",
+"description": "websites to make money on"
+}

@@ -1,0 +1,6 @@
+{
+"name": "reatilmenot.com",
+"type": "url",
+"url": "https://reatilmenot.com",
+"description": "coupons for online orders"
+}

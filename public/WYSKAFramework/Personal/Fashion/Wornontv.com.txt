@@ -1,0 +1,6 @@
+{
+"name": "Wornontv.com",
+"type": "url",
+"url": "https://Wornontv.com",
+"description": "find clothes they wear in tv shows"
+}

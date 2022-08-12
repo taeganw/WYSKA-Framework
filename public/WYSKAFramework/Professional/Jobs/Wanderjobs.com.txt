@@ -1,0 +1,6 @@
+{
+"name": "Wanderjobs.com",
+"type": "url",
+"url": "https://Wanderjobs.com",
+"description": "Worldwide adventure jobs"
+}

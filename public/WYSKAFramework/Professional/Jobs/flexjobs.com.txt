@@ -1,0 +1,6 @@
+{
+"name": "flexjobs.com",
+"type": "url",
+"url": "https://flexjobs.com",
+"description": "Part time jobs from home"
+}
